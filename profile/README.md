@@ -1,7 +1,7 @@
 # Unión Papelera
 El gobierno papelero es el gobierno de la UP<br>
 <img src="https://github.com/Union-Papelera/.github/blob/main/profile/web.png" style="width: 15px"> Visita nuesta web: <a href="https://www.unionpapelera.ml">unionpapelera.ml</a><br>
-<img src="https://github.com/Union-Papelera/.github/blob/main/profile/email.png" style="width: 15px;"> Contactanos: <a href="malito:gobiernopapelero@mailfence.com">gobiernopapelero@mailfence.com</a><br>
+<img src="https://github.com/Union-Papelera/.github/blob/main/profile/email.png" style="width: 15px;"> Contáctanos: <a href="malito:gobiernopapelero@mailfence.com">gobiernopapelero@mailfence.com</a><br>
 <img src="https://github.com/Union-Papelera/.github/blob/main/profile/mastodon.png" style="width: 15px;"> Síguenos en mastodon: <a href="https://mastodon.social/@UnionPapelera">@UnionPapelera</a>
         
         
